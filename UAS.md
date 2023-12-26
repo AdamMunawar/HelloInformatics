@@ -11,6 +11,8 @@ Jawaban (https://mudabergelora.wordpress.com/2023/12/20/mengenal-lebih-dekat-jen
 ## Mencoba Console Sistem Operasi
 
 ### Windows CMD [v] ⭐⭐⭐⭐
+![Screenshot (191)](https://github.com/AdamMunawar/HelloInformatics/assets/143864605/9f9acc11-9097-4f90-b624-ea08b7c2b12f)
+
 
 Referensi [1](https://www.stationx.net/windows-command-line-cheat-sheet/)
 
