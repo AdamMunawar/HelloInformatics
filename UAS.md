@@ -4,6 +4,7 @@
 Jawaban (https://mudabergelora.wordpress.com/2023/12/20/computational-thinking-gerbang-pemahaman-dan-internalisasinya-dalam-dunia-digital/)
 
 ## Menjelaskan Jenis-Jenis Mesin Komputasi ⭐⭐⭐
+Jawaban (https://mudabergelora.wordpress.com/2023/12/20/mengenal-lebih-dekat-jenis-jenis-mesin-komputasi-yang-mempesona/)
 
 ## Mengktifkan dan Mencoba Google Colab [v] ⭐⭐⭐⭐⭐
 
