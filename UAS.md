@@ -21,15 +21,13 @@ Referensi [1](https://www.stationx.net/windows-command-line-cheat-sheet/)
 ![Screenshot (192)](https://github.com/AdamMunawar/HelloInformatics/assets/143864605/d313932b-0825-4bc5-a248-13e20ef240d2)
 
 ## Membuat Algoritma Dalam Bentuk Flow Chart [v] ⭐⭐⭐⭐⭐
-
-Referensi [1](https://dev.to/angelotheman/flowchart-wizardry-master-the-art-of-visualizing-algorithms-4e4j)
+Berdasarkan referensi yang diambil dari (https://dev.to/angelotheman/flowchart-wizardry-master-the-art-of-visualizing-algorithms-4e4j), saya menggunakan tool draw.io untuk membuat algoritma "memasak nasi" dengan flow chart, adapun hasilnya dilampirkan <br>
+##![Algoritma Memasak Nasi drawio](https://github.com/AdamMunawar/HelloInformatics/assets/143864605/74871259-db37-4db7-a6c6-3aebbdb2b27d)
 
 ## Mencoba Scratch Bahasa Indonesia [v] ⭐⭐⭐⭐⭐⭐⭐
 Link Hasil Percobaan (https://scratch.mit.edu/projects/944177475/)
 Link Video Youtube ()
 ![Screenshot (193)](https://github.com/AdamMunawar/HelloInformatics/assets/143864605/e320e4cf-2ae2-448f-9782-87fbfd72e9f0)
-
-
 
 ## Mencoba Algoritma Bubble Sort Menggunakan Java [v] ⭐⭐⭐
 
