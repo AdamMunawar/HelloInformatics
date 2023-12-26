@@ -18,6 +18,7 @@ Jawaban (https://mudabergelora.wordpress.com/2023/12/20/mengenal-lebih-dekat-jen
 Referensi [1](https://www.stationx.net/windows-command-line-cheat-sheet/)
 
 ### Linux Terminal Menggunakan Google Colab [v] ⭐⭐⭐⭐
+![Screenshot (192)](https://github.com/AdamMunawar/HelloInformatics/assets/143864605/d313932b-0825-4bc5-a248-13e20ef240d2)
 
 ## Membuat Algoritma Dalam Bentuk Flow Chart [v] ⭐⭐⭐⭐⭐
 
