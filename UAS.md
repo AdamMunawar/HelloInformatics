@@ -1,12 +1,33 @@
-# Hello Informatics !
+# Hello Informatics ! 
+## Muhammad Adam Sirojuddin Munawar (1237050133)
 
 ## Menjelaskan dan Menginternalisasi Computational Thinking ⭐⭐⭐⭐⭐⭐⭐
-Jawaban (https://mudabergelora.wordpress.com/2023/12/20/computational-thinking-gerbang-pemahaman-dan-internalisasinya-dalam-dunia-digital/)
+1. Penjelasan Mengenai Berpikir komputasi (https://mudabergelora.wordpress.com/2023/12/20/computational-thinking-gerbang-pemahaman-dan-internalisasinya-dalam-dunia-digital/) <br>
+
+1.1 Berikut tampilan blog yang sudah disusun <br>
+![Screenshot (204)](https://github.com/AdamMunawar/HelloInformatics/assets/143864605/0d293c2d-d5e2-496f-ac4f-f4718f8b21c6)
+
+1.2 Simpulan mengenai Computational Thinking beserta Internalisasinya <br>
+    Computational Thinking (dalam bahasa indonesia Berpikir Komputasi) dapat disimpulkan yakni cara berpikir layaknya komputer, dengan pemecahanan masalah secara terstruktur dan dipecah ke ranah yang lebih dalam lagi.<br>
+Tentunya, sistematika berpikir dan pemecahan masalah tersebut didasari akan logika yang kuat dalam penyelesaian masalah. <br>
+Contoh sederhana dalam penerapan berpikir komputasi, yakni ketika akan memasak nasi. Tentunya bagi sebagian kalangan untuk memasak nasi merupakan hal yang mudah, namun di sisi lain, kita dapat menerapkan pola pemikiran computational thinking dengan penjabaran akar masalah utama. Di sini, yang menjadi permasalahan ialah saya ingin memasak nasi, lalu saya mesti melakukan apa supaya pada akhirnya saya bisa memakan hasil masakan nasi tersebut. <br>
+Selanjutnya, kita dapat memperinci masalah yang sudah dijabarkan dengan memastikan terlebih dahulu apakah beras tersedia apakah tidak, jika tersedia maka kita bisa melanjutkan untuk memasak nasi, adapun jika tidak tersedia, maka dapat membeli beras terlebih dahulu, berlanjut poin demi poin permasalahan dan pencarian solusi hingga masalah "memasak nasi" telah terselesaikan.<br> 
 
 ## Menjelaskan Jenis-Jenis Mesin Komputasi ⭐⭐⭐
-Jawaban (https://mudabergelora.wordpress.com/2023/12/20/mengenal-lebih-dekat-jenis-jenis-mesin-komputasi-yang-mempesona/)
+1. Penjelasan rinci mengenai Jenis Mesin Komputasi (https://mudabergelora.wordpress.com/2023/12/20/mengenal-lebih-dekat-jenis-jenis-mesin-komputasi/) <br>.
+1.1 Berikut tampilan blog yang sudah disusun <br>
+![Screenshot (205)](https://github.com/AdamMunawar/HelloInformatics/assets/143864605/4733f18b-b399-42f1-bc9a-55f3b3d12005) <br>
+1.2 Simpulan mengenai Jenis-jenis Mesin Komputasi <br>
+Adapun jenis jenis mesin komputasi yang umum diketahui yakni : <br>
+a. Personal Computer (PC). Semacam Komputer dekstop dan laptop <br>
+b. Minicomputer <br>
+c. Supercomputer <br>
+d. Server <br>
+e. Embedded System, seperti peralatan rumah tangga, Mobil pintar, CCTV, dan segala peralatan yang terintegrasi dengan perangkat lain <br>
 
 ## Mengktifkan dan Mencoba Google Colab [v] ⭐⭐⭐⭐⭐
+Google Colab, saya mendaftar dengan akun email pribadi : muhammadadam.005@gmail.com <br>
+- Penggunaan Google Colab, dengan bahasa Phyton dengan tujuan pemahaman cara kerja Kecerdasan Buatan dalam membuat Text-to-Speech <br>
 ![Screenshot (190)](https://github.com/AdamMunawar/HelloInformatics/assets/143864605/7d6a9b73-766b-4590-8684-5d7b6f3ea085)
 
 ## Mencoba Console Sistem Operasi
