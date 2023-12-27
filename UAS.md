@@ -31,7 +31,8 @@ Google Colab, saya mendaftar dengan akun email pribadi : muhammadadam.005@gmail.
 ![Screenshot (190)](https://github.com/AdamMunawar/HelloInformatics/assets/143864605/7d6a9b73-766b-4590-8684-5d7b6f3ea085)
 
 ## Mencoba Console Sistem Operasi
-
+Console Sistem operasi adalah antarmuka teks berupa perintah yang menghasilkan respon berupa teks kembali, yang mana pengguna dapat menjelajahi sistem yang berada dalam operasi, menjalankan program yang disimpan dalam sistem operasi dan berbagai kegunaan lainnya. <br> Adapun ssalah satu contoh dari console sistem operasi antara lain Command Prompt (CMD) yang biasa di windows, Terminal Linux, dan MacOs Command Shell seperti contoh di bawah yang akan saya tampilkan setelahnya. <br>
+Link Penjelasan Selengkapnya ()<br>
 ### Windows CMD [v] ⭐⭐⭐⭐
 ![Screenshot (191)](https://github.com/AdamMunawar/HelloInformatics/assets/143864605/9f9acc11-9097-4f90-b624-ea08b7c2b12f)
 
@@ -46,15 +47,65 @@ Berdasarkan referensi yang diambil dari (https://dev.to/angelotheman/flowchart-w
 ##![Algoritma Memasak Nasi drawio](https://github.com/AdamMunawar/HelloInformatics/assets/143864605/74871259-db37-4db7-a6c6-3aebbdb2b27d)
 
 ## Mencoba Scratch Bahasa Indonesia [v] ⭐⭐⭐⭐⭐⭐⭐
+Link Blog () <br>
 Link Hasil Percobaan (https://scratch.mit.edu/projects/944177475/)
 Link Video Youtube ()
 ![Screenshot (193)](https://github.com/AdamMunawar/HelloInformatics/assets/143864605/e320e4cf-2ae2-448f-9782-87fbfd72e9f0)
 
 ## Mencoba Algoritma Bubble Sort Menggunakan Java [v] ⭐⭐⭐
+```
+public class BubbleSort {
+    public static void main(String[] args) {
+        String[] nama = {"Budi", "Andi", "Citra", "Dewi", "Eko"};
+
+        System.out.println("Nama sebelum diurutkan:");
+        printNames(nama);
+
+        bubbleSort(nama);
+
+        System.out.println("\nNama setelah diurutkan:");
+        printNames(nama);
+    }
+
+    static void bubbleSort(String[] nama) {
+        int n = nama.length;
+
+        for (int i = 0; i < n - 1; i++) {
+            for (int j = 0; j < n - i - 1; j++) {
+                if (nama[j].compareTo(nama[j + 1]) > 0) {
+                    String temp = nama[j];
+                    nama[j] = nama[j + 1];
+                    nama[j + 1] = temp;
+                }
+            }
+        }
+    }
+
+    static void printNames(String[] nama) {
+        for (String namas : nama) {
+            System.out.print(namas + " ");
+        }
+    }
+}
+```
+Adapun Implementasinya : <br>
+![Screenshot (208)](https://github.com/AdamMunawar/HelloInformatics/assets/143864605/641c585b-cdf9-4b6c-9512-9e9173842c0a) <br> Penjelasan : <br>
+Bubble Sort digunakan untuk mengurutkan daftar angka atau kata dengan cara yang sederhana. Dalam analogi ini, kita membayangkan kartu-kartu yang memiliki angka atau kata di atasnya. Langkah pertama melibatkan perbandingan antara dua kartu pertama. Jika kartu pertama memiliki nilai yang lebih besar, posisinya akan ditukar dengan kartu kedua. Selanjutnya, perpindahan dilakukan ke kartu berikutnya dan proses ini diulangi hingga mencapai kartu terakhir.
+
+Setelah satu putaran selesai, dimulai kembali dari awal, kecuali yang terakhir. Proses ini diulangi beberapa kali hingga tidak ada lagi pertukaran yang terjadi. Dalam perjalanan waktu, kartu dengan nilai tertinggi akan bergeser ke posisi terakhir. Meskipun cara ini sederhana, Bubble Sort dianggap tidak efisien untuk jumlah data yang besar. Ini adalah cara untuk memahami bagaimana pengurutan dilakukan dengan membandingkan dan menukar elemen-elemen bertetangga. <br>
 
 ## Mencoba dan Mendemonstrasikan Penggunakan IDE ⭐⭐
+IDE dengan Visual Studio Code (VsCode)
+![Screenshot (210)](https://github.com/AdamMunawar/HelloInformatics/assets/143864605/98ca4168-e661-4f19-ae69-4b865be04d91)
+
+![Screenshot (209)](https://github.com/AdamMunawar/HelloInformatics/assets/143864605/8baac846-38a2-42c2-a1cb-2b706dc0aede)
 
 ## Mendaftar, Mengeksplorasi, dan Mendemonstrasikan Penggunaan HackerRank [v] ⭐⭐⭐⭐⭐
+Akun HackerRank Saya (https://www.hackerrank.com/profile/muhammadadam_005) <br>
+- Tampilan Layar Proifle Hackerrank <br>
+![Screenshot (212)](https://github.com/AdamMunawar/HelloInformatics/assets/143864605/e0bbf87e-1f76-4c2a-9b1c-d9aeb5cc6bda)
+
+![Screenshot (211)](https://github.com/AdamMunawar/HelloInformatics/assets/143864605/41980148-b811-4877-84b4-f35917e45818)
 
 ## Mendemonstrasikan Pembuatan Aplikasi / Game Pada Platform : Mobile / Desktop / Web Browser ⭐⭐⭐⭐⭐
 
