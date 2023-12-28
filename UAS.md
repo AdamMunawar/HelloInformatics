@@ -210,6 +210,10 @@ Referensi cloud service: [Amazon Web Service](https://aws.amazon.com/) [Microsof
 ## Eksplorasi Top Github Project yang Diminati ⭐⭐ 
 
 ## Membangun Profil Linkedin dan Mengikuti Akun-Akun Inspirasif Bertema Informatika ⭐⭐⭐
+Adapun Link Akun LinkedIn saya (https://www.linkedin.com/in/muhammad-adam-sirojuddin-munawar-624171273/) <br>
+- Tampilan Profil saya
+![Screenshot (238)](https://github.com/AdamMunawar/HelloInformatics/assets/143864605/ce4d238b-d35f-4e33-bfce-46e1f9426da9) <br>
+- Tampilan Akun yang diikuti di LinkedIn <br> 
 
 ## Membangun Profil Github Page ⭐⭐⭐⭐⭐
 
