@@ -113,8 +113,14 @@ Akun HackerRank Saya (https://www.hackerrank.com/profile/muhammadadam_005) <br>
 
 Referensi installer [PostgreSQL](https://www.postgresql.org/download/windows/)
 Referensi tambahan [1](https://db-engines.com/en/ranking)
+![Screenshot (214)](https://github.com/AdamMunawar/HelloInformatics/assets/143864605/612383e0-ad22-4746-adea-634f150407c8)
+![Screenshot (215)](https://github.com/AdamMunawar/HelloInformatics/assets/143864605/7c5faad0-a2cd-4834-9d17-be805bfbf8fc)
+![Screenshot (216)](https://github.com/AdamMunawar/HelloInformatics/assets/143864605/4a845ea3-2f4d-4792-a946-6cf33165f4e5)
+![Screenshot (218)](https://github.com/AdamMunawar/HelloInformatics/assets/143864605/67cbadee-b69f-43d3-813a-0810d559d908)
 
 ## Mencoba Eksplorasi dan Query Database Menggunakan Database Explorer (Dbeaver / dsb.) [v] ⭐⭐⭐
+![Screenshot (221)](https://github.com/AdamMunawar/HelloInformatics/assets/143864605/52637a58-edd8-4cd4-a86c-aa972a9f8bf5)
+![Screenshot (223)](https://github.com/AdamMunawar/HelloInformatics/assets/143864605/67416a6f-89bd-4cfa-b59f-9a306c3c59d3)
 
 Referensi installer [Dbeaver](https://dbeaver.io/download/)
 Referensi [1](https://www.w3schools.com/postgresql/postgresql_create_table.php)
@@ -153,6 +159,7 @@ Referensi []
 ## Mencoba HTTP Request dan Web API dengan Hoppscotch / Postman [v] ⭐⭐
 
 ## Mendemonstrasikan Penggunaan Developer Tools Pada Web Browser (Firefox / Chrome) [v] ⭐⭐⭐⭐⭐
+![Screenshot (231)](https://github.com/AdamMunawar/HelloInformatics/assets/143864605/5fcefaa5-cb5c-42b7-bd11-d9180b85824b)
 
 ## Mengeksplorasi dan Menjelaskan Layanan Cloud Service yang Diminati (GCP / AWS / Azure) [v] ⭐⭐
 Saat ini banyak perusahaan berbasis digital seperti Gojek, Tokopedia, Instagram, Telkom memanfaatkan Cloud Service karena memudahkan untuk mulai pembangunan dan analisis menggunakan infrastruktur digital yang dapat berkembang secara dinamis dengan tarif yang sangat teliti.
@@ -206,6 +213,7 @@ Referensi cloud service: [Amazon Web Service](https://aws.amazon.com/) [Microsof
 ## Eksplorasi Lowongan Freelancer IT (Upwork / Toptal / Freelancer.com) ⭐⭐⭐
 
 ## Eksplorasi dan Pilih Topik yang Diminati di Roadmap.sh ⭐⭐⭐
+![Screenshot (237)](https://github.com/AdamMunawar/HelloInformatics/assets/143864605/fd899460-2750-4849-9cd4-1fcfce4fa859)
 
 ## Eksplorasi Top Github Project yang Diminati ⭐⭐ 
 
