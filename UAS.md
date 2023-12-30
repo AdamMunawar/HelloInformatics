@@ -225,12 +225,14 @@ Referensi cloud service: [Amazon Web Service](https://aws.amazon.com/) [Microsof
 ## Eksplorasi Lowongan Pekerjaan IT ⭐⭐⭐
 
 ## Eksplorasi Lowongan Freelancer IT (Upwork / Toptal / Freelancer.com) ⭐⭐⭐
+![Screenshot (253)](https://github.com/AdamMunawar/HelloInformatics/assets/143864605/6479279c-a261-480e-b594-09a4be8c3ac7)
+![Screenshot (252)](https://github.com/AdamMunawar/HelloInformatics/assets/143864605/3227537b-6798-42c0-8e58-d9e9c94a0e9d)
 
 ## Eksplorasi dan Pilih Topik yang Diminati di Roadmap.sh ⭐⭐⭐
 ![Screenshot (237)](https://github.com/AdamMunawar/HelloInformatics/assets/143864605/fd899460-2750-4849-9cd4-1fcfce4fa859)
 
 ## Eksplorasi Top Github Project yang Diminati ⭐⭐ 
-
+Machine Learning (https://github.com/PhilipPurwoko/Panduan-Belajar-Machine-Learning)
 ## Membangun Profil Linkedin dan Mengikuti Akun-Akun Inspirasif Bertema Informatika ⭐⭐⭐
 Adapun Link Akun LinkedIn saya (https://www.linkedin.com/in/muhammad-adam-sirojuddin-munawar-624171273/) <br>
 - Tampilan Profil saya
