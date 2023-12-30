@@ -135,10 +135,15 @@ Referensi [1](https://www.w3schools.com/postgresql/postgresql_create_table.php)
 Referensi: [1](https://www.startertutorials.com/ajwt/uniform-resource-locator.html)
 
 ## Mencoba Pelacakan Informasi Server dari Alamat Domain [v] ⭐
+![Screenshot (241)](https://github.com/AdamMunawar/HelloInformatics/assets/143864605/ea39fbcf-8b92-466d-996d-4e1ca28c1361)
+![Screenshot (242)](https://github.com/AdamMunawar/HelloInformatics/assets/143864605/f612ad50-7d7a-4ce1-affe-adc3b565a4d2)
+![Screenshot (243)](https://github.com/AdamMunawar/HelloInformatics/assets/143864605/8b86a2fb-0b95-485b-a579-7cb02c9f8e39)
 
 Referensi terkait: [1](https://en.wikipedia.org/wiki/Country_code_top-level_domain) [2](https://en.wikipedia.org/wiki/List_of_Internet_top-level_domains)
 
 ## Mencoba Pembuatan Halaman Web Menggunakan HTML, CSS, dan JavaScript [v] ⭐⭐⭐
+![Screenshot (243)](https://github.com/AdamMunawar/HelloInformatics/assets/143864605/32956075-6797-4ae9-99e3-0027f3ab3390)
+![Screenshot (244)](https://github.com/AdamMunawar/HelloInformatics/assets/143864605/7c071ae8-703f-472f-95f7-1c0c6be1459c)
 
 Referensi tutorial 
 - Isi konten halaman web : [HTML](https://www.w3schools.com/html/)
@@ -146,6 +151,8 @@ Referensi tutorial
 - Interaktivitas halaman web : [JavaScript](https://www.w3schools.com/js/)
 
 ## Mencoba Penerapan Teknik Search Engine Optimization (SEO) Pada HTML [v] ⭐⭐⭐
+![Screenshot (247)](https://github.com/AdamMunawar/HelloInformatics/assets/143864605/421becfe-e0ef-45aa-bc3f-503ce9e81706)
+![Screenshot (244)](https://github.com/AdamMunawar/HelloInformatics/assets/143864605/af3bef81-8730-4aa9-ba8d-c5b8c7402499)
 
 Referensi []
 
@@ -167,6 +174,7 @@ Saat ini banyak perusahaan berbasis digital seperti Gojek, Tokopedia, Instagram,
 Referensi cloud service: [Amazon Web Service](https://aws.amazon.com/) [Microsoft Azure](https://azure.microsoft.com) [Google Cloud Platform](https://cloud.google.com) 
 
 ## Mencoba Penggunaan Content Management System (Wordpress) [v] ⭐⭐⭐
+![Screenshot (248)](https://github.com/AdamMunawar/HelloInformatics/assets/143864605/9b757a77-0fa1-48dd-8a2f-787053b87b11)
 
 ## Mendemonstrasikan Akses Konten Multimedia (Image, Audio, Video) ⭐⭐⭐
 
@@ -183,12 +191,18 @@ Referensi cloud service: [Amazon Web Service](https://aws.amazon.com/) [Microsof
 ## Mencoba Model Machine Learning Menggunakan Google Colab, TTS, Speechrecognition, dan HuggingFace [v] ⭐⭐⭐
 
 ## Mencoba Data Visualization Dengan Tools [v] ⭐⭐
+![Screenshot (232)](https://github.com/AdamMunawar/HelloInformatics/assets/143864605/0916a8cb-8c93-46cc-a478-1c718f1bc6ee)
+![Screenshot (233)](https://github.com/AdamMunawar/HelloInformatics/assets/143864605/8f51c35c-224f-4b2f-beab-5f7e12cd63e1)
 
 ## Mencoba Data Visualization Dengan Code [v] ⭐⭐
 
 ## Mendaftar dan Mencoba Eksplorasi HuggingFace [v] ⭐⭐⭐
+![Screenshot (234)](https://github.com/AdamMunawar/HelloInformatics/assets/143864605/ebd2e5c8-1536-4b5d-a7d9-10785fd5fe9b)
+
 
 ## Mendaftar dan Mencoba Eksplorasi Kaggle [v] ⭐⭐⭐⭐
+![Screenshot (235)](https://github.com/AdamMunawar/HelloInformatics/assets/143864605/e31f2932-df80-441b-998e-26338bb75645)
+![Screenshot (236)](https://github.com/AdamMunawar/HelloInformatics/assets/143864605/8dcb4252-17ca-411e-847e-8d2688dbb074)
 
 ## Mencoba Protokol Komunikasi IoT (MQTT) [v] ⭐
 
@@ -226,6 +240,8 @@ Adapun Link Akun LinkedIn saya (https://www.linkedin.com/in/muhammad-adam-siroju
 ## Membangun Profil Github Page ⭐⭐⭐⭐⭐
 
 ## Mengikuti Workshop / Event / Course Terkait IT ⭐⭐⭐⭐
+![Screenshot (240)](https://github.com/AdamMunawar/HelloInformatics/assets/143864605/ce0f871f-db24-4bf9-9f2c-9fe75e23c077)
+![Screenshot (239)](https://github.com/AdamMunawar/HelloInformatics/assets/143864605/717333ee-81fa-4cf6-b298-6fcdd338b826)
 
 ## Membaca dan Mengambil Inspirasi Dari Buku Bertema Informatika ⭐⭐⭐⭐⭐
 
