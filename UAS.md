@@ -108,7 +108,7 @@ Akun HackerRank Saya (https://www.hackerrank.com/profile/muhammadadam_005) <br>
 ![Screenshot (211)](https://github.com/AdamMunawar/HelloInformatics/assets/143864605/41980148-b811-4877-84b4-f35917e45818)
 
 ## Mendemonstrasikan Pembuatan Aplikasi / Game Pada Platform : Mobile / Desktop / Web Browser ⭐⭐⭐⭐⭐
-
+Link Youtube ()
 ## Mencoba Instalasi Database (PostgreSQL / MySQL / dsb.) [v] ⭐⭐⭐
 
 Referensi installer [PostgreSQL](https://www.postgresql.org/download/windows/)
@@ -126,12 +126,23 @@ Referensi installer [Dbeaver](https://dbeaver.io/download/)
 Referensi [1](https://www.w3schools.com/postgresql/postgresql_create_table.php)
 
 ## Mendemonstrasikan dan Menjelaskan Penggunaan Web Browser untuk Mengakses Halaman Website HTML [v] ⭐⭐⭐⭐
+-Akses Website pemerintah Kab. Bandung Barat menggunakan Web Browser google chrome 
+![Screenshot (256)](https://github.com/AdamMunawar/HelloInformatics/assets/143864605/d24ae89f-75f9-4f18-905a-178e2f313622)
+
 - Dokumen HyperText Markup Language (HTML) ada untuk memudahkan pertukaran informasi berbasis Hypertext.
 - Web Browser seperti Firefox, Chrome, Opera, ada untuk membuka dan mempresentasikan dokumen HTML
 - Dokumen HTML ini bisa bersumber dari web server yang kita ingin datanya (Tokopedia, Wikipedia, Detik.com, dsb.) atau bisa juga dukumen HTML yang kita buat sendiri
 
 ## Mendemonstrasikan dan Menjelaskan Komponen Dari Contoh Uniform Resource Locator (URL) [v] ⭐⭐
-
+URL, atau Uniform Resource Locator, adalah alamat yang digunakan untuk menunjukkan lokasi sumber daya di internet. URL terdiri dari beberapa komponen yang memberikan informasi tentang cara mengakses sumber daya tersebut.<br>
+Contohnya, https://www.example.com:8080/path/to/resource?query_param=value#fragment. Dalam URL ini:
+Protokol (https://) menunjukkan aturan komunikasi yang digunakan, seperti HTTPS.<br>
+Nama host (www.example.com) menentukan alamat situs atau server.
+Port (:8080) adalah saluran khusus untuk mentransmisikan data (opsional).
+Path (/path/to/resource) menunjukkan lokasi spesifik di server.
+Query parameter (?query_param=value) memberikan informasi tambahan kepada server.
+Fragment (#fragment) menandakan bagian tertentu dari sumber daya yang ditampilkan.<br>
+Jadi, URL ini adalah cara kita menyampaikan instruksi ke server untuk mendapatkan atau menampilkan sumber daya yang diinginkan.
 Referensi: [1](https://www.startertutorials.com/ajwt/uniform-resource-locator.html)
 
 ## Mencoba Pelacakan Informasi Server dari Alamat Domain [v] ⭐
