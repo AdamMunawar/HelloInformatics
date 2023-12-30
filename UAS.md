@@ -205,6 +205,7 @@ Referensi cloud service: [Amazon Web Service](https://aws.amazon.com/) [Microsof
 ![Screenshot (236)](https://github.com/AdamMunawar/HelloInformatics/assets/143864605/8dcb4252-17ca-411e-847e-8d2688dbb074)
 
 ## Mencoba Protokol Komunikasi IoT (MQTT) [v] ⭐
+![Gambar WhatsApp 2023-12-30 pukul 14 58 27_251d1cf1](https://github.com/AdamMunawar/HelloInformatics/assets/143864605/aa4da4a7-cc94-40c6-8ef6-b93178c92c58)
 
 ## Mencoba Memproses File CSV Menggunakan Google Colab [v] ⭐⭐
 
@@ -223,6 +224,8 @@ Referensi cloud service: [Amazon Web Service](https://aws.amazon.com/) [Microsof
 ## Eksplorasi Tools Untuk Belajar Berbicara Bahasa Inggris (HelloTalk) ⭐⭐⭐ 
 
 ## Eksplorasi Lowongan Pekerjaan IT ⭐⭐⭐
+![Screenshot (254)](https://github.com/AdamMunawar/HelloInformatics/assets/143864605/07944af2-26ce-4ea9-8904-eb99a7daf092)
+![Screenshot (255)](https://github.com/AdamMunawar/HelloInformatics/assets/143864605/4c851efb-ad8b-421c-9f88-4d758c1bd2ae)
 
 ## Eksplorasi Lowongan Freelancer IT (Upwork / Toptal / Freelancer.com) ⭐⭐⭐
 ![Screenshot (253)](https://github.com/AdamMunawar/HelloInformatics/assets/143864605/6479279c-a261-480e-b594-09a4be8c3ac7)
