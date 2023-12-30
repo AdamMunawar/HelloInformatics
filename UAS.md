@@ -240,8 +240,13 @@ Adapun Link Akun LinkedIn saya (https://www.linkedin.com/in/muhammad-adam-siroju
 ## Membangun Profil Github Page ⭐⭐⭐⭐⭐
 
 ## Mengikuti Workshop / Event / Course Terkait IT ⭐⭐⭐⭐
+- Course ini saya dapatkan dari konten insatgram
+  (https://www.instagram.com/reel/C1T8h4HLuE0/?igsh=dHNobHZmenpzMHNy) <br>
 ![Screenshot (240)](https://github.com/AdamMunawar/HelloInformatics/assets/143864605/ce0f871f-db24-4bf9-9f2c-9fe75e23c077)
 ![Screenshot (239)](https://github.com/AdamMunawar/HelloInformatics/assets/143864605/717333ee-81fa-4cf6-b298-6fcdd338b826)
+- Course RevoU
+![Screenshot (250)](https://github.com/AdamMunawar/HelloInformatics/assets/143864605/6273a8db-0ef8-41de-8006-1e9043a313dc)
+![Screenshot (249)](https://github.com/AdamMunawar/HelloInformatics/assets/143864605/f01a45eb-7746-4b76-8b7e-259b7498de4e)
 
 ## Membaca dan Mengambil Inspirasi Dari Buku Bertema Informatika ⭐⭐⭐⭐⭐
 
