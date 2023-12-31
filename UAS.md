@@ -192,7 +192,13 @@ Referensi []
 ![Screenshot (231)](https://github.com/AdamMunawar/HelloInformatics/assets/143864605/5fcefaa5-cb5c-42b7-bd11-d9180b85824b)
 
 ## Mengeksplorasi dan Menjelaskan Layanan Cloud Service yang Diminati (GCP / AWS / Azure) [v] ⭐⭐
-Saat ini banyak perusahaan berbasis digital seperti Gojek, Tokopedia, Instagram, Telkom memanfaatkan Cloud Service karena memudahkan untuk mulai pembangunan dan analisis menggunakan infrastruktur digital yang dapat berkembang secara dinamis dengan tarif yang sangat teliti.
+Saat ini banyak perusahaan berbasis digital seperti Gojek, Tokopedia, Instagram, Telkom memanfaatkan Cloud Service karena memudahkan untuk mulai pembangunan dan analisis menggunakan infrastruktur digital yang dapat berkembang secara dinamis dengan tarif yang sangat teliti.<br>
+di sini saya mencoba mengeksplorasi Amazon Web Swervices (AWS) sebagai layanan cloud yang dicari.
+Amazon punya beberapa alat yang bisa membantu orang dalam mengelola komputer dan situs web mereka melalui internet. Salah satunya disebut EC2, yang seperti komputer virtual yang bisa diatur oleh orang sesuai keinginan mereka. Ini memudahkan mereka untuk menyesuaikan seberapa besar komputer yang mereka butuhkan.<br>
+Ada juga alat yang disebut Elastic Beanstalk. Ini membuatnya lebih mudah untuk membuat dan menyebarkan situs web atau aplikasi. Dengan alat ini, situs web atau aplikasi bisa tumbuh lebih besar secara otomatis, tanpa perlu repot-repot mengatur sendiri.<br>
+Terakhir, ada alat bernama LightSail. Ini membuatnya lebih mudah untuk memulai proyek baru tanpa harus khawatir tentang mengatur semua komputer dan jaringannya. LightSail secara otomatis menangani hal-hal tersebut, jadi orang bisa lebih fokus pada membuat aplikasi atau situs web mereka.
+berikut tampang layar AWS <br>
+![Screenshot (272)](https://github.com/AdamMunawar/HelloInformatics/assets/143864605/12bab146-b465-4d7b-97f3-ebdec4e2625a)
 
 Referensi cloud service: [Amazon Web Service](https://aws.amazon.com/) [Microsoft Azure](https://azure.microsoft.com) [Google Cloud Platform](https://cloud.google.com) 
 
@@ -208,9 +214,15 @@ Referensi cloud service: [Amazon Web Service](https://aws.amazon.com/) [Microsof
 ## Mencoba Pemrosesan Konten Multimedia (Image, Audio) Menggunakan Google Colab [v] ⭐⭐⭐
 
 ## Mencoba Web Tool AI Discriminative (Image Classification) [v] ⭐⭐⭐⭐
+Menggunakan Google Lens
+![Screenshot (276)](https://github.com/AdamMunawar/HelloInformatics/assets/143864605/a09aad28-5221-400b-930c-cf5d476fb534)
+
+![Screenshot (277)](https://github.com/AdamMunawar/HelloInformatics/assets/143864605/6669416d-9dc2-49af-9b63-fb6427e71c4d)
 
 ## Mencoba Web Tool AI Generative (Text to Image, Text to Text) [v] ⭐⭐⭐⭐
-
+Penggunaan AI Bing untuk generate gambar sesuai keinginan <br>
+![Screenshot (274)](https://github.com/AdamMunawar/HelloInformatics/assets/143864605/bca93782-2ce7-4df6-a73a-c1e5cf41af19)
+![Screenshot (273)](https://github.com/AdamMunawar/HelloInformatics/assets/143864605/321dd8c0-1090-4740-9c6b-43c25ca66d77)
 ## Mencoba Model Machine Learning Menggunakan Google Colab, TTS, Speechrecognition, dan HuggingFace [v] ⭐⭐⭐
 
 ## Mencoba Data Visualization Dengan Tools [v] ⭐⭐
@@ -218,6 +230,8 @@ Referensi cloud service: [Amazon Web Service](https://aws.amazon.com/) [Microsof
 ![Screenshot (233)](https://github.com/AdamMunawar/HelloInformatics/assets/143864605/8f51c35c-224f-4b2f-beab-5f7e12cd63e1)
 
 ## Mencoba Data Visualization Dengan Code [v] ⭐⭐
+Menggunakan Google Colab, dengan bahasa Python
+![Screenshot (278)](https://github.com/AdamMunawar/HelloInformatics/assets/143864605/a68a7b49-747c-4004-ba0b-1a8500dc6721)
 
 ## Mendaftar dan Mencoba Eksplorasi HuggingFace [v] ⭐⭐⭐
 ![Screenshot (234)](https://github.com/AdamMunawar/HelloInformatics/assets/143864605/ebd2e5c8-1536-4b5d-a7d9-10785fd5fe9b)
@@ -231,11 +245,15 @@ Referensi cloud service: [Amazon Web Service](https://aws.amazon.com/) [Microsof
 ![Gambar WhatsApp 2023-12-30 pukul 14 58 27_251d1cf1](https://github.com/AdamMunawar/HelloInformatics/assets/143864605/aa4da4a7-cc94-40c6-8ef6-b93178c92c58)
 
 ## Mencoba Memproses File CSV Menggunakan Google Colab [v] ⭐⭐
+![Screenshot (279)](https://github.com/AdamMunawar/HelloInformatics/assets/143864605/f26f5f97-d724-494f-bee7-a829d4237df1)
+![Screenshot (280)](https://github.com/AdamMunawar/HelloInformatics/assets/143864605/56043e65-12ab-4e2a-b875-b286485d648b)
 
 ## Mencoba Memproses File Big Data ORC Menggunakan Google Colab [v] ⭐⭐
+Membuat, Menyimpan, dan Membaca File ORC dengan isi data Nama beserta data TPS
+![Screenshot (281)](https://github.com/AdamMunawar/HelloInformatics/assets/143864605/e0e34c4c-3609-4c16-9197-481b67e3f91d)
 
 ## Menjelaskan Jurnal, Conference, Artikel, Grade Jurnal [v] ⭐⭐⭐⭐⭐
-
+Link BLOG (https://mudabergelora.wordpress.com/2023/12/31/jurnal-artikel-conference-dan-grade-jurnal-bacaan-akrab-mahasiswa/)
 ## Eksplorasi Artikel Jurnal / Conference di Repository Terekognisi Internasional (IEEE / Arxiv / Science Direct / ACM /DBLP) [v] ⭐⭐⭐⭐
 
 ## Menonton Video Presentasi Tugas Akhir Informatika ⭐⭐⭐⭐⭐
