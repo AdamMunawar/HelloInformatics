@@ -168,13 +168,25 @@ Referensi tutorial
 Referensi []
 
 ## Mencoba Pembuatan File JSON [v] ⭐⭐⭐
+```
+{
+    "nama": "Adam Sirojuddin",
+    "umur": 18,
+    "Email": "muhammadadam.005@gmail.com",
+    "hobi": ["berenang", "membaca", "menulis"],
+    "status": "Single"
+  }
+  ```
+![Screenshot (260)](https://github.com/AdamMunawar/HelloInformatics/assets/143864605/d6d76ad7-233e-454e-8324-466241436e90)
 
 ## Mencoba Penggunaan Web Hosting Dengan Untuk Halaman HTML [v] ⭐⭐⭐
 
 
 ## Mencoba Penggunaan Web Hosting Dengan Untuk Web Service [v] ⭐⭐⭐
+![Screenshot (265)](https://github.com/AdamMunawar/HelloInformatics/assets/143864605/b9954227-da7c-4c9f-94ea-1020418d3d36)
 
 ## Mencoba HTTP Request dan Web API dengan Hoppscotch / Postman [v] ⭐⭐
+![Screenshot (264)](https://github.com/AdamMunawar/HelloInformatics/assets/143864605/d3cf6e63-a33d-4b7c-ae4d-90a0362ccbac)
 
 ## Mendemonstrasikan Penggunaan Developer Tools Pada Web Browser (Firefox / Chrome) [v] ⭐⭐⭐⭐⭐
 ![Screenshot (231)](https://github.com/AdamMunawar/HelloInformatics/assets/143864605/5fcefaa5-cb5c-42b7-bd11-d9180b85824b)
@@ -229,8 +241,14 @@ Referensi cloud service: [Amazon Web Service](https://aws.amazon.com/) [Microsof
 ## Menonton Video Presentasi Tugas Akhir Informatika ⭐⭐⭐⭐⭐
 
 ## Mengeksplorasi Seluruh Profesi Terkait Informatika dan Profesi yang Diminati ⭐⭐⭐⭐
+![Screenshot (255)](https://github.com/AdamMunawar/HelloInformatics/assets/143864605/60b980b7-56aa-4c5a-830b-54f1449bbb8e)
+![Screenshot (254)](https://github.com/AdamMunawar/HelloInformatics/assets/143864605/ddd42725-4ec0-4941-9dc0-7574b3013d4f)
+![Screenshot (270)](https://github.com/AdamMunawar/HelloInformatics/assets/143864605/0a222de2-2c6a-41ea-9e13-3a66c9f36f8b)
 
 ## Eksplorasi Tools Untuk Belajar Bahasa Inggris (Duolingo) ⭐⭐⭐
+![Screenshot (267)](https://github.com/AdamMunawar/HelloInformatics/assets/143864605/a38bd9d9-fd0f-4f74-bcb6-11353264d4ff)
+![Screenshot (266)](https://github.com/AdamMunawar/HelloInformatics/assets/143864605/ddace013-070c-4a5c-9750-b9464747d604)
+![Screenshot (268)](https://github.com/AdamMunawar/HelloInformatics/assets/143864605/503aba79-a3bf-4143-a55a-629f60f32a61)
 
 ## Eksplorasi Tools Untuk Belajar Berbicara Bahasa Inggris (HelloTalk) ⭐⭐⭐ 
 
@@ -256,7 +274,7 @@ Adapun Link Akun LinkedIn saya (https://www.linkedin.com/in/muhammad-adam-siroju
 ## Membangun Profil Github Page ⭐⭐⭐⭐⭐
 
 ## Mengikuti Workshop / Event / Course Terkait IT ⭐⭐⭐⭐
-- Course ini saya dapatkan dari konten insatgram
+- Course ini saya dapatkan dari konten instagram
   (https://www.instagram.com/reel/C1T8h4HLuE0/?igsh=dHNobHZmenpzMHNy) <br>
 ![Screenshot (240)](https://github.com/AdamMunawar/HelloInformatics/assets/143864605/ce0f871f-db24-4bf9-9f2c-9fe75e23c077)
 ![Screenshot (239)](https://github.com/AdamMunawar/HelloInformatics/assets/143864605/717333ee-81fa-4cf6-b298-6fcdd338b826)
