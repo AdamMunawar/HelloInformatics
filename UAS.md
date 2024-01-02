@@ -255,8 +255,14 @@ Membuat, Menyimpan, dan Membaca File ORC dengan isi data Nama beserta data TPS
 ## Menjelaskan Jurnal, Conference, Artikel, Grade Jurnal [v] ⭐⭐⭐⭐⭐
 Link BLOG (https://mudabergelora.wordpress.com/2023/12/31/jurnal-artikel-conference-dan-grade-jurnal-bacaan-akrab-mahasiswa/)
 ## Eksplorasi Artikel Jurnal / Conference di Repository Terekognisi Internasional (IEEE / Arxiv / Science Direct / ACM /DBLP) [v] ⭐⭐⭐⭐
+![Screenshot (285)](https://github.com/AdamMunawar/HelloInformatics/assets/143864605/958a8aa1-082d-428c-91a3-3a3eaedf4107)
+![Screenshot (287)](https://github.com/AdamMunawar/HelloInformatics/assets/143864605/cd0fe1a7-cf2d-4c15-9389-f5b7bc4a4ad7)
+![Screenshot (286)](https://github.com/AdamMunawar/HelloInformatics/assets/143864605/a6ae3ac5-2f8a-49fc-aa0a-62ae17c3e38b)
+
 
 ## Menonton Video Presentasi Tugas Akhir Informatika ⭐⭐⭐⭐⭐
+![Screenshot (284)](https://github.com/AdamMunawar/HelloInformatics/assets/143864605/5a72e49b-9e4c-4439-9f5d-ec9a84449e60)
+![Screenshot (283)](https://github.com/AdamMunawar/HelloInformatics/assets/143864605/b22a9dd0-8ce2-44b3-b062-87f74b9a79c1)
 
 ## Mengeksplorasi Seluruh Profesi Terkait Informatika dan Profesi yang Diminati ⭐⭐⭐⭐
 ![Screenshot (255)](https://github.com/AdamMunawar/HelloInformatics/assets/143864605/60b980b7-56aa-4c5a-830b-54f1449bbb8e)
@@ -290,7 +296,7 @@ Adapun Link Akun LinkedIn saya (https://www.linkedin.com/in/muhammad-adam-siroju
 - Tampilan Akun yang diikuti di LinkedIn <br> 
 
 ## Membangun Profil Github Page ⭐⭐⭐⭐⭐
-
+!(https://github.com/AdamMunawar)
 ## Mengikuti Workshop / Event / Course Terkait IT ⭐⭐⭐⭐
 - Course ini saya dapatkan dari konten instagram
   (https://www.instagram.com/reel/C1T8h4HLuE0/?igsh=dHNobHZmenpzMHNy) <br>
@@ -301,7 +307,11 @@ Adapun Link Akun LinkedIn saya (https://www.linkedin.com/in/muhammad-adam-siroju
 ![Screenshot (249)](https://github.com/AdamMunawar/HelloInformatics/assets/143864605/f01a45eb-7746-4b76-8b7e-259b7498de4e)
 
 ## Membaca dan Mengambil Inspirasi Dari Buku Bertema Informatika ⭐⭐⭐⭐⭐
-
+Buku "Pengantar Logika Informatika, Algoritma, dan Pemrograman Komputer" karya Heri Sismoro. <br>
+Membahas dasar-dasar logika, algoritma, dan pemrograman komputer dengan cara yang sederhana dan mudah dimengerti. Setiap contoh algoritma disertai implementasi praktis dalam bahasa pemrograman QBasic, yang dipilih karena kemudahan pemahaman bagi pemula.
+Buku ini mengupas topik logika informatika, termasuk logika proposisional, logika predikat, dan logika kombinasional. Untuk algoritma, pembaca diajak memahami pseudocode dan flowchart sebagai alat bantu penyajian ide algoritma secara visual.
+Bagian pemrograman mengajarkan struktur runtunan, percabangan, dan perulangan, serta konsep subrutin dan rekursi. Setiap bab diakhiri dengan contoh soal dan penyelesaiannya, yang mencakup algoritma, program, dan keluaran hasilnya.
+Buku ini dirancang agar mudah dipahami, menghindari bahasa yang rumit atau terbelit-belit. Tujuannya adalah membantu pembaca menjadi programmer yang handal melalui penjelasan yang jelas dan contoh implementasi yang langsung dapat dipahami. Selamat belajar, semoga buku ini membantu Anda memahami dasar-dasar logika, algoritma, dan pemrograman komputer dengan mudah.
 
 
 
